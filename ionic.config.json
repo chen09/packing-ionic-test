@@ -1,0 +1,8 @@
+{
+  "name": "packing-ionic-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "de7626f5"
+}
